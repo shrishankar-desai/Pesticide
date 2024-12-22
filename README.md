@@ -1,9 +1,6 @@
 # Pesticide
 Forecasting Future Pesticide Usage Trend In US
 
-![image](https://github.com/user-attachments/assets/cb8ad58a-bb46-4b7a-a5ab-f3226520c8ad)
-
-
 This project aims to predict the patterns of pesticide use over time for various chemicals in local catchments and watersheds, to assess levels of contamination. It entails forecasting the spatial and temporal distribution of pesticide concentrations, drawing on historical data on usage and environmental conditions.Companies could utilize predictive analytics on this data to project future trends in pesticide usage. This approach would aid in strategic decision-making concerning production scheduling, inventory control, and market strategy.
 
 # Data Description: 
